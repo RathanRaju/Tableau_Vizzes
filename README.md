@@ -8,7 +8,7 @@
 
 ![alt text](https://github.com/RathanRaju/Tableau_Vizzes/blob/master/Annual_Bonus_Analysis.JPG "Annual Bonus Analysis")
 
-Alt-H2
+---
 
 ###### Megabucks Coffee Company - Distance between stores and highlight the stores which are more than ½ mile from another branch.
 
